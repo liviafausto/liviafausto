@@ -11,34 +11,35 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
+<!--
 <br>
+
+<p align="left">
+  How to reach me ⤵️
+</p>
+
+💬 [linkedin][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+-->
+
+---------
 
 <a href="https://github.com/liviafausto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviafausto&theme=dracula&show_icons=true" />
 </a>
 
----------
-
-<!--
-<p align="left">
-  How to reach me: ⤵️
-</p>
+<!-- 
+Some things I might wanna use later:
+👋  🦄  💼 🔭
 
 💌 [gmail][gmail] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-💬 [linkedin][linkedin]
 
 [gmail]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
-
- 
-Some things I might wanna use later:
-👋  🦄  💼 🔭
 
 <a href="https://github.com/liviafausto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&theme=dracula&hide_langs_below=1" />
