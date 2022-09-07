@@ -6,13 +6,14 @@
   I'm just a brazilian undergraduate student, on the first year of my Information Systems Bachelor's degree at ICMC-USP, trying to learn as much as I can.
 </p>
 
+<br>
 
 ### 🌱 I'm currently learning
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-<!--
+<!-- 
 <br>
 
 <p align="left">
@@ -30,6 +31,7 @@
 </a>
 -->
 
+
 <!-- 
 Some things I might wanna use later:
 👋  🦄  💼 🔭
@@ -42,6 +44,7 @@ Some things I might wanna use later:
 [twitter]: https://twitter.com/SEUTWITTER
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 
+<br>
 <a href="https://github.com/liviafausto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&theme=dracula&hide_langs_below=1" />
 </a>
