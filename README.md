@@ -13,24 +13,13 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-<!-- 
 <br>
 
-<p align="left">
-  How to reach me ⤵️
-</p>
+<!--
+### 💬 How to reach me
 
-💬 [linkedin][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
----------
-
-<a href="https://github.com/liviafausto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviafausto&theme=dracula&show_icons=true" />
-</a>
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 -->
-
 
 <!-- 
 Some things I might wanna use later:
