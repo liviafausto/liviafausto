@@ -15,11 +15,9 @@
 
 <br>
 
-<!--
 ### 💬 How to reach me
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
--->
+[![Linkedin: Livia Fausto](https://img.shields.io/badge/-liviafausto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviafausto/)](https://www.linkedin.com/in/liviafausto/)
 
 <!-- 
 Some things I might wanna use later:
