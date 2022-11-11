@@ -3,15 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm just a brazilian undergraduate student, on the first year of my Information Systems Bachelor's degree at ICMC-USP, trying to learn as much as I can.
+  I'm just a brazilian undergraduate student, on my first year of my Information Systems Bachelor's degree at ICMC-USP, trying to learn as much as I can.
 </p>
 
 <br>
 
 ### 🌱 I'm currently learning
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></code>
+<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></code>
+<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></code>
+<code><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></code>
 
 <br>
 
@@ -19,20 +20,7 @@
 
 [![Linkedin: Livia Fausto](https://img.shields.io/badge/-liviafausto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviafausto/)](https://www.linkedin.com/in/liviafausto/)
 
-<!-- 
-Some things I might wanna use later:
-👋  🦄  💼 🔭
-
-💌 [gmail][gmail] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-
-[gmail]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-
 <br>
-<a href="https://github.com/liviafausto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&theme=dracula&hide_langs_below=1" />
-</a>
--->
+
+<code>[![card](https://github-readme-stats.vercel.app/api?username=liviafausto&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</code>
+<code>[![liviafausto](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</code>
