@@ -16,14 +16,13 @@
 
 <br>
 
+## 📊 Github Stats
+
+<code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&layout=compact&theme=tokyonight)](https://github.com/liviafausto)</code>
+<code>[![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviafausto&theme=tokyonight&show_icons=true)](https://github.com/liviafausto)</code>
+
+<br>
+
 ### 💬 How to reach me:
 
 [![Linkedin: Livia Fausto](https://img.shields.io/badge/-liviafausto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviafausto/)](https://www.linkedin.com/in/liviafausto/)
-
-<br>
-
-<code>[![card](https://github-readme-stats.vercel.app/api?username=liviafausto&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</code>
-
-<br>
-
-<code>[![liviafausto](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</code>
