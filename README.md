@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-> I'm a brazilian undergraduate student, on the third semester of my Information Systems Bachelor's degree, at ICMC-USP.
+> I'm a brazilian undergraduate student, on the fourth semester of my Information Systems Bachelor's degree, at ICMC-USP.
 
 
 <br>
