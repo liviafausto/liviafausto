@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-> I'm a brazilian undergraduate student, on the fourth semester of my Information Systems Bachelor's degree, at ICMC-USP.
+> I'm a brazilian undergraduate student, in the fifth semester of my Information Systems Bachelor's degree, at ICMC-USP.
 
 
 <br>
@@ -30,4 +30,4 @@
 
 ### 💬 How to reach me:
 
-[![Linkedin: Livia Fausto](https://img.shields.io/badge/-liviafausto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviafausto/)](https://www.linkedin.com/in/liviafausto/)
+[![Linkedin: Livia Fausto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liviafausto/)](https://www.linkedin.com/in/liviafausto/)
