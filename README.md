@@ -8,7 +8,7 @@
 
 <br>
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></code>
 <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></code>
 <code><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></code>
@@ -20,7 +20,7 @@
 
 <br>
 
-## 📊 Github Stats
+### 📊 Github Stats
 
 <code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&layout=compact&theme=tokyonight)](https://github.com/liviafausto)</code>
 
