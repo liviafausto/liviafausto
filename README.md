@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>I'm a Backend Software Engineer from Brazil, with 3 years of professional experience specializing in the Java and Spring ecosystem.</p>
-<p>Currently, I'm in the final stages of completing my Bachelor's Degree in Information Systems at the University of São Paulo (USP).</p>
-<p>I'm passionate about building robust and scalable systems, focusing on microservices architecture, clean code, and continuous integration practices.</p>
+<p>I'm a Backend Software Engineer from Brazil, working primarily with Java, Spring, microservices, REST APIs, and cloud-based systems.</p>
+<p>I hold a Bachelor's Degree in Information Systems from the University of São Paulo (USP).</p>
+<p>I focus on building reliable, secure, and maintainable backend systems, with particular attention to clean code, automated testing, performance, and software engineering best practices.</p>
 
 <br> <br>
 
